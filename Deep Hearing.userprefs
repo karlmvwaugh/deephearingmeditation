@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SizeChanger.cs">
+    <Files>
+      <File FileName="Assets/RandomWalk.cs" Line="93" Column="39" />
+      <File FileName="Assets/ColourProvider.cs" Line="1" Column="1" />
+      <File FileName="Assets/SetColour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Rotater.cs" Line="1" Column="1" />
+      <File FileName="Assets/RelativeSpeedControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/SizeChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets/ControlRandomWalkSpeed.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlusMinusBalance.cs" Line="1" Column="1" />
+      <File FileName="Assets/AudioOscillatorController.cs" Line="20" Column="23" />
+      <File FileName="Assets/Oscillator.cs" Line="1" Column="1" />
+      <File FileName="../DriftSketch/Assets/Drawer.cs" Line="135" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
