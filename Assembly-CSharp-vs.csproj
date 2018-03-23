@@ -50,6 +50,7 @@
      <Compile Include="Assets\ColourProvider.cs" />
      <Compile Include="Assets\ControlRandomWalkSpeed.cs" />
      <Compile Include="Assets\Oscillator.cs" />
+     <Compile Include="Assets\PanControl.cs" />
      <Compile Include="Assets\PlusMinusBalance.cs" />
      <Compile Include="Assets\RandomWalk.cs" />
      <Compile Include="Assets\RelativeSpeedControl.cs" />

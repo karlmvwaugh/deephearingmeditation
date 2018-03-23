@@ -27,9 +27,13 @@ public class Oscillator : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		var delta = GetDelta();
-		theta += (delta / speed);
+		theta += frac(delta);
 		
 		_lastTime = DateTime.Now;
+	}
+
+	float frac(float delta) {
+		return speed > 0 ? delta / speed : 0;
 	}
 	
 	float GetDelta(){
